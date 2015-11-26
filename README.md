@@ -1,4 +1,4 @@
-# mailchecker-go
+# mailchecker-go [![Build Status](https://travis-ci.org/gernest/mailchecker-go.svg)](https://travis-ci.org/gernest/mailchecker-go)
 
 This is a Go(Golang) libary for detecting temporary (disposable/throwaway) emails.
 
